@@ -1,0 +1,5 @@
+.left_side_login {
+  height: 100vh;
+  background: linear-gradient(134.99deg, #7c057b 0%, #cd2791 77.02%);
+  clip-path: circle(85% at left);
+}
